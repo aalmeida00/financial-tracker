@@ -2,11 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
 ## Features 1.0
 - Add incoming transactions
 - Add outgoing transactions
 - Make a simple balance
+
+## Stack 1.0
+- [React](https://reactjs.org/)
+- [Chackra](https://chakra-ui.com/)
+- [React-Router](https://reacttraining.com/react-router/web/guides/quick-start)
+- [Firebase](https://firebase.google.com/)
 
 ## Available Scripts
 
