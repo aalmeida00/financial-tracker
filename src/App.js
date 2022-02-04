@@ -1,7 +1,9 @@
+import IconBase from "./components/Icons";
 
 function App() {
   return (
     <div className="App">
+      <IconBase />
       <header className="App-header">
         <p>
           Edit <code>src/App.js</code> and save to reload.
